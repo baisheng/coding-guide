@@ -85,6 +85,7 @@
 
 #### 生成随机 ID
 
+- [nanoid](https://github.com/ai/nanoid)
 - [node-uuid](https://github.com/kelektiv/node-uuid)
 - [js-shortid](https://github.com/zzzhan/js-shortid)
 - [guid](https://github.com/dandean/guid)
